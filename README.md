@@ -1,5 +1,5 @@
 # CES-507-Proje
-Güneş enerjisi projesi
+Güneş Enerjisi Projesi Mühendislik Fakültesi F Blok
 # Bir kez: depoyu bilgisayarınıza alın
 git clone https://[github.com/nazlicerenkara/ces507-fblok-gunes-nseb.git](https://github.com/nazlicerenkara/CES-507-)
 cd ces507-fblok-gunes-nseb
