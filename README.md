@@ -4,6 +4,13 @@ Güneş Enerjisi Projesi Mühendislik Fakültesi F Blok
 git clone https://[github.com/nazlicerenkara/ces507-fblok-gunes-nseb.git](https://github.com/nazlicerenkara/CES-507-)
 cd ces507-fblok-gunes-nseb
 
+gunes-enerjisi-projesi/
+├── data/          # PVGIS'ten inen CSV/JSON
+├── drawings/      # plan ve cephe çizimleri
+├── src/           # python kodları (gunes_konumu.py)
+├── notebooks/
+└── README.md
+
 # Her görev için: issue #3 "Güneş konumu fonksiyonları" olsun
 git switch main
 git pull
